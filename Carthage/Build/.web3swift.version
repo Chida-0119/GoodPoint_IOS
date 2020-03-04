@@ -1,0 +1,14 @@
+{
+  "commitish" : "1070351d621dca1dc344005a192837e6bbf458b7",
+  "iOS" : [
+    {
+      "name" : "secp256k1",
+      "hash" : "9e9f33c9c2f83a7c0640da2f4829a8823232a4ace3093b82ba704463667b1857"
+    },
+    {
+      "name" : "web3swift",
+      "hash" : "752da4d27942be0f0f57a9c6e68f9246146fb959481fc329ff5b700d58606b30",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    }
+  ]
+}
